@@ -1,6 +1,6 @@
 package com.andremultifocal.dslist.dto;
 
-import com.andremultifocal.dslist.Entities.Game;
+import com.andremultifocal.dslist.entities.Game;
 
 public class GameMinDTO {
 	

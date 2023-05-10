@@ -1,4 +1,4 @@
-package com.andremultifocal.dslist.Entities;
+package com.andremultifocal.dslist.entities;
 
 import java.util.Objects;
 

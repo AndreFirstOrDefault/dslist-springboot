@@ -2,7 +2,7 @@ package com.andremultifocal.dslist.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.andremultifocal.dslist.Entities.Game;
+import com.andremultifocal.dslist.entities.Game;
 
 public interface GameRepository extends JpaRepository<Game, Long>{
 
